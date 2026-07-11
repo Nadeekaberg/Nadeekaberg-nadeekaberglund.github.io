@@ -115,3 +115,22 @@ nav a {
 nav a:hover {
     color: #66ccff;
 }
+#about {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 20px;
+}
+
+#about h2 {
+    text-align: center;
+    color: #003366;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+#about p {
+    font-size: 17px;
+    line-height: 1.8;
+    color: #333333;
+    text-align: justify;
+}
