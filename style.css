@@ -176,4 +176,16 @@ nav a:hover {
     object-fit: cover;
     margin-bottom: 20px;
 }
+.btn {
+    display: inline-block;
+    background-color: #003366;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 15px;
+}
 
+.btn:hover {
+    background-color: #00509e;
+}
