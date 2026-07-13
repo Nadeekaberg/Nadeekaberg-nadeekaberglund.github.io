@@ -56,7 +56,7 @@ p {
 }
 /* Profile Picture */
 
-img {
+.home img {
     width: 220px;
     height: 220px;
     border-radius: 50%;
@@ -64,6 +64,7 @@ img {
     display: block;
     margin: 30px auto;
     border: 4px solid #003366;
+}
 }
 .home {
     text-align: center;
