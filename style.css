@@ -195,3 +195,12 @@ nav a:hover {
         +46 XX XXX XX XX
     </a>
 </p>
+footer {
+
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:50px;
+
+}
